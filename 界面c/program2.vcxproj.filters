@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="socket.c">
+    <ClCompile Include="文件备份助手.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
